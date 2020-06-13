@@ -28,7 +28,7 @@ count = 0
 learning_rate = 0.8
 output = []
 
-while(count<1000000):
+while(count<500000):
   count = count + 1
   print("Count: ",count)
   for i in range(4):
